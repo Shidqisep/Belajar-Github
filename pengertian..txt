@@ -1,2 +1,0 @@
-git adalah sebuah version control system, hubnya bernama github.
-github itu seperti google drive untuk para developers.

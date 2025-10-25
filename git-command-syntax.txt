@@ -1,0 +1,8 @@
+git adalah sebuah version control system, hubnya bernama github.
+github itu seperti google drive untuk para developers.
+
+git config --global user.name "nama"
+config diatas untuk mengubah nama atau konfigurasi nama di global (semua repositori)
+
+git config --global user.email "emailanda@anda.com"
+config diatas untuk mengubah email atau konfigurasi email di global (semua repositori)
