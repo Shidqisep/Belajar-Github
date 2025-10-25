@@ -6,3 +6,9 @@ config diatas untuk mengubah nama atau konfigurasi nama di global (semua reposit
 
 git config --global user.email "emailanda@anda.com"
 config diatas untuk mengubah email atau konfigurasi email di global (semua repositori)
+
+git log
+untuk melihat histori perubahan/histori commit. jika sudah selesai tekan q untuk keluar.
+
+git checkout <commit hash>
+digunakan untuk kembali ke sebuah commit
